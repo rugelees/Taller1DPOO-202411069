@@ -1,0 +1,13 @@
+tipo:Diesel Corriente:10100:20.0
+tipo:Gasolina Corriente:15800:70.0
+tipo:Diesel Plus:10950:40.0
+tipo:Gasolina Extra:19900:102.0
+surtidor:Sergio:Diesel Corriente:0.0:Gasolina Corriente:0.0:Diesel Plus:0.0:Gasolina Extra:0.0
+surtidor:Valeria:Diesel Corriente:0.0:Gasolina Corriente:0.0:Diesel Plus:0.0:Gasolina Extra:0.0
+surtidor:Valeria:Diesel Corriente:0.0:Gasolina Corriente:0.0:Diesel Plus:0.0:Gasolina Extra:0.0
+surtidor:Andres:Diesel Corriente:0.0:Gasolina Corriente:0.0:Diesel Plus:0.0:Gasolina Extra:0.0
+empleado:Isaias:0
+empleado:Jeronimo:0
+empleado:Andres:0
+empleado:Valeria:0
+empleado:Sergio:0
